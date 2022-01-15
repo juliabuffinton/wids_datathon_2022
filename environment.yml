@@ -1,0 +1,13 @@
+name: wids22
+
+dependencies:
+  - ipython
+  - matplotlib
+  - pandas
+  - pip
+  - python
+  - scikit-learn
+  - numpy
+  - notebook
+  - jupyterlab
+  - ipykernel
